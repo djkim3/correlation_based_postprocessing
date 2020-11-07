@@ -1,0 +1,7 @@
+TO run matlab script from python :
+
+python run_matlab_code.py -in example/EP02_00036.txt
+
+#where -in <input annotation file in YOLO format>
+
+
