@@ -1,4 +1,4 @@
-# correlation_based_postprocessing
+# Correlation based Postprocessing
 Correlation based postprocessing of object detection results
 
 ## Run matlab script from python
